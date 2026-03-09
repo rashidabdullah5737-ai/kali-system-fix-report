@@ -96,9 +96,12 @@ After restarting the service, the **terminal returned to normal operation 🎉**
 🐧 Kali Linux User  
 💻 Learning Ethical Hacking  
 
-🔗 GitHub: https://github.com/yourusername  
-🔗 LinkedIn: Add your LinkedIn profile here  
+## 📬 Contact & Profile
 
+🌐 **Portfolio:** [Portfoliorashidabdullah5737-ai.github.io](https://Portfoliorashidabdullah5737-ai.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/abdullah-rashid-a1554b388](https://www.linkedin.com/in/abdullah-rashid-a1554b388)  
+✉️ **Email:** rashidabdullah5737@gmail.com  
+🐺 **Club:** Cyber Wolf Club — Member
 ---
 
 ## ⭐ Repository Purpose
